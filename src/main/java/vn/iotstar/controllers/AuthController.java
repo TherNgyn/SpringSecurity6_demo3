@@ -17,8 +17,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 import vn.iotstar.entity.Role;
 import vn.iotstar.entity.Users;
-import vn.iotstar.model.LoginDto;
-import vn.iotstar.model.SignUpDto;
+import vn.iotstar.models.LoginDto;
+import vn.iotstar.models.SignUpDto;
 import vn.iotstar.repository.RoleRepository;
 import vn.iotstar.repository.UserRepository;
 
